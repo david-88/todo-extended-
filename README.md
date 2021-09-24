@@ -39,3 +39,7 @@ It is a webpack project, so there are two folders: "dist" and "src".
 
 - Use `npx webpack --watch` - This updates main.js as soon as there is a change
 - Use live server - Then your app is updated in the browser as soon as there is a change
+
+# ESLint
+
+- ESLint is a linter. [Linting is something that can AUTOMATICALLY find the dumb mistakes we all make](https://mikecavaliere.com/javascript-linting-what-developers-need-to-know/), so you can fix them without thinking. It’ll make your code break less and prevent some very confusing problems. Often Linters use Style Guides like the Airbnb Style Guide, Google Style Guide or JavaScript Standard Style. These style guides come with predefined rules what to check for. In this project we use The JavaScript Standard Style. You can add or change rules to fit your needs.
